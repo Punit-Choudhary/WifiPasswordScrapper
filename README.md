@@ -2,7 +2,7 @@
 
 Thank you for being here :)
 This is a simple Python code that prints all the saved wifi password in your windows system.
-You can run this program to find out saved passwords in your friend's device and use his/her wifi   xP
+You can run this program to find out saved passwords in your friend's device and use his/her wifi   :P
 
 I used subprocess module to track output, and took help from www.geeksforgeeks.com & www.docs.python.org to learn about Subprocess module.
 
